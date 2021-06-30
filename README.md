@@ -23,26 +23,26 @@ cd sectrails
 
 ```PYTHON
 
-./Details about domain :
+.Details about domain :
 
                python3 details.py --domain domain-name --api security-trails-api --output output-filename
-./DNS :
+.DNS :
 
                python3 details.py --domain domain-name --api security-trails-api --output output-filename
                
-./Neighbours (IP BLOCKS) :
+.Neighbours (IP BLOCKS) :
 
                python3 details.py --ip domain-name --api security-trails-api --output output-filename
                
- ./Subdomains :
+ .Subdomains :
  
                python3 details.py --domain domain-name --api security-trails-api --output output-filename
                
- ./Tags :
+ .Tags :
  
                python3 details.py --domain domain-name --api security-trails-api --output output-filename
                
- ./Whois :
+ .Whois :
  
                python3 details.py --domain domain-name --api security-trails-api --output output-filename
 ./python3
