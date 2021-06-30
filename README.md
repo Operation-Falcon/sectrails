@@ -2,7 +2,6 @@
 # Sectrails
 
 Sectrails is wrapper for security trails based on community version written in python, aimed to help security researcher build their integrations with 
-
 security trails. 
 
 ![sectrails](https://user-images.githubusercontent.com/55708909/123972108-32994180-d9d8-11eb-9acd-ea15768089f2.png)
