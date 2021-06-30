@@ -23,7 +23,7 @@ cd sectrails
 
 ```PYTHON
 
-Details about domain :
+Details :
 
                python3 details.py --domain domain-name --api security-trails-api --output output-filename
 DNS :
