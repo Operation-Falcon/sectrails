@@ -45,7 +45,7 @@ Tags :
 Whois :
  
                python3 details.py --domain domain-name --api security-trails-api --output output-filename
-./python3
+
 ```
 
   
