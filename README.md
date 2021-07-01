@@ -17,6 +17,8 @@ git clone https://github.com/Deepanjalkumar/sectrails.git
 
 cd sectrails
 
+pip install -r requirements.txt
+
 ```
     
 ## Usage/Examples
